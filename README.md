@@ -1,1 +1,7 @@
-# Minigolf---FPGA-Game
+# Minigolf
+
+Minigolf is a simple golf game written in C to run on the DE1-SoC FPGA. 
+The game supports PS2 keyboard and mouse input for game control. 
+It uses a double buffer system to display graphics on a VGA display. 
+
+
